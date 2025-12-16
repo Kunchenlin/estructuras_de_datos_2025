@@ -58,8 +58,32 @@ estructuras_de_datos_2025/
 - **utilidades/listar_prestado.c**: Lista libros prestados de la biblioteca
 
 #### Ejercicios de Examen
-- **examen_01.c**: Primer ejercicio de examen
-- **Ejercicio-Final-V.2.0.c**: Ejercicio final versión 2.0
+- **examen_01.c**: Sistema de gestión de trenes con Min-Heap y ABB (Árbol Binario de Búsqueda). Combina estructuras avanzadas para gestionar salidas de trenes ordenadas por fecha
+- **Ejercicio-Final-V.2.0.c**: Ejercicio que integra generación de números aleatorios, ordenación por inserción directa, búsqueda binaria y uso de estructuras (Asignatura)
+
+## 📝 Ejercicios de Examen
+
+### examen_01.c
+**Tema**: Gestión de trenes con Min-Heap y ABB  
+**Estructuras de datos**: Min-Heap (montículo mínimo), Árbol Binario de Búsqueda (ABB)  
+**Conceptos**: Prioridad por fecha, gestión de salidas de trenes, búsqueda eficiente
+
+**Compilación:**
+```bash
+gcc -o examen_01 examen_01.c -Wall -Wextra
+./examen_01
+```
+
+### Ejercicio-Final-V.2.0.c
+**Tema**: Ordenación, búsqueda y estructuras  
+**Algoritmos**: Inserción directa, búsqueda binaria  
+**Conceptos**: Números aleatorios, ordenación de vectores, estructuras personalizadas
+
+**Compilación:**
+```bash
+gcc -o ejercicio_final Ejercicio-Final-V.2.0.c -Wall -Wextra
+./ejercicio_final
+```
 
 ## 🔧 Compilación y Ejecución
 
