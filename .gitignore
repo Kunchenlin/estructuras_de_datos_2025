@@ -1,0 +1,65 @@
+# Archivos compilados
+*.o
+*.out
+*.exe
+*.elf
+a.out
+
+# Archivos ejecutables (sin extensión)
+pilas/pilas
+colas/cola_dinamica
+colas/cola_vectorial
+listas/ejercicio_listas
+busqueda/busqueda_enteros
+busqueda/busqueda_struct
+busqueda/buscar_titulo
+busqueda/ordenacion_binaria
+ordenacion/anio_mezcla
+ordenacion/ordenar_anio
+ordenacion/ordenar_precio
+gestores/gestor_drones
+gestores/gestor_trenes
+gestores/gestor_vuelo
+gestores/gestor_vuelo_v2
+gestores/metro
+gestores/metro_v2
+utilidades/crear_txt
+utilidades/text_to_bin
+utilidades/ver_bin
+utilidades/listar
+
+# Archivos de datos generados
+*.bin
+*.txt
+*.dat
+
+# Archivos temporales
+*~
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# Directorios de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archivos de depuración
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Archivos de valgrind
+vgcore.*
+*.log
