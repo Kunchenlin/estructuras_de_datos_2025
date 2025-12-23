@@ -1,0 +1,10 @@
+Juan García Pérez;Universidad de Sevilla;22;Si;85.5
+María López Martínez;Universidad de Granada;21;Si;92.3
+Carlos Rodríguez Sánchez;Universidad de Córdoba;23;No;78.4
+Ana Fernández Gómez;Universidad de Málaga;20;Si;88.7
+Pedro Martínez Ruiz;Universidad de Sevilla;24;No;73.2
+Laura Sánchez Torres;Universidad de Granada;22;Si;91.5
+David González López;Universidad de Córdoba;21;No;82.1
+Isabel Díaz Ramírez;Universidad de Málaga;23;Si;89.8
+Miguel Hernández Flores;Universidad de Sevilla;22;No;76.9
+Carmen Jiménez Castro;Universidad de Granada;20;Si;94.2
